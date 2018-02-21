@@ -1,2 +1,0 @@
-# xperterp
-XpertERP
